@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UC5 {
+public class HelloApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
